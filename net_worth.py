@@ -1,3 +1,6 @@
+'''
+Creates a treee and finds the sum of subtrees ("net worth")
+'''
 import sys
 import os
 
